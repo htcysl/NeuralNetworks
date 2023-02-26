@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
+  
+  <h1 style="color:blue;">A Blue Heading</h1> 
+   <p style="color:red;">A red paragraph.</p>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 
 </body>
 </html>
